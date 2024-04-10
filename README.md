@@ -1,2 +1,3 @@
-# batch-3D-model-processing-CLI
-Batch 3D Model Processing CLI
+partially redacted
+
+Generates 3D models, combines pre-existing mesh through ray traced finepoint mesh operations. Object oriented multithreading, and K-D tree data structures. Intakes and outputs in .Obj file format.
